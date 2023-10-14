@@ -1,0 +1,13 @@
+/* General Style*/
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+    /* the star targets the whole page. Set margin and padding to zero to know all changes are created by me and not some default of the page*/
+    * {
+        margin: 0;
+        padding:0;
+    }
+    body {
+        font-family:'Poppins', sans-serif;
+    }
+
